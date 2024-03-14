@@ -1,9 +1,8 @@
 # 20 React: React Portfolio
 
-This is my submission for the React portfolio. I kept the structure similar to my regular portfolio from earlier in the bootcamp. in the terminal you simply
-need to install the dependencies using npm i, then start the server with npm run dev. There are several different pages to navigate, as well as some links to
-my live sites and githubs repos. Shoutout to my classmate Alex for showing me the github Icon link, I really enjoyed adding that to the project and appreciate his help with that portion of the code and helping to walk me through it. Future development will include adding my resume and linked in profile, 
-as well as changing the portfolio page so that more of my projects are displayed and take up less space.
+This is my submission for the React portfolio. I kept the structure similar to my regular portfolio from earlier in the bootcamp. in the terminal you simply need to install the dependencies using npm i, then start the server with npm run dev. There are several different pages to navigate, as well as some links to my live sites and githubs repos. Shoutout to my classmate Alex for showing me the github Icon link, I really enjoyed adding that to the project and appreciate his help with that portion of the code and helping to walk me through it. Future development will include adding my resume and linked in profile, as well as changing the portfolio page so that more of my projects are displayed and take up less space.
+
+here is the deployed netlify link: https://prismatic-pegasus-5472a3.netlify.app/
 
 ## Your Task
 

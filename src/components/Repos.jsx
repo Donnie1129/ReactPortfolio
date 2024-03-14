@@ -15,7 +15,7 @@ const Repos = (props) => {
         <div>
             <h2>{title}</h2>
             <div>
-                <img src={image} alt={title} style={{ maxWidth: '50%', height: 'auto' }} /> {/* Add styling here */}
+                <img src={image} alt={title} style={{ maxWidth: '30%', height: 'auto' }} />
             </div>
             {renderLinks()}
         </div>
